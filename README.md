@@ -1,2 +1,2 @@
-# coursera-repo
-A repository containing the files related to the web development course on coursera
+# Welcome
+This is a repository containing the files related to the web development course on coursera
